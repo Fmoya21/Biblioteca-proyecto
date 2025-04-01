@@ -34,5 +34,5 @@ def registrar_alumno():
     guardar_datos("alumnos", db["alumnos"])
     print("alumno registrado")
     
-
-                  
+#esto esta hasta registrat alumno 
+                 
